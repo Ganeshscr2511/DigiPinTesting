@@ -1,13 +1,14 @@
 # DIGIPIN API by Department of Posts
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="docs/images/DigiPin.svg" alt="DIGIPIN logo" width="120"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ministry_of_Communications_India.svg/1920px-Ministry_of_Communications_India.svg.png" alt="Ministry of Communications" width="240"/>
   <img src="https://dac.indiapost.gov.in/mydigipin/_next/image?url=%2Fmydigipin%2Fimages%2Findiapost_logo_v2.webp&w=1920&q=75" alt="India Post" width="120"/>
 </div>
 
 ## A Geospatial Addressing Solution by India Post
 
-DIGIPIN (Digital PIN) is a 10-character alphanumeric geocode developed by the Department of Posts, India. It provides a precise, user-friendly way to encode geographic coordinates that can be easily shared and decoded back to latitude/longitude pairs.
+DIGIPIN <img src="docs/images/DigiPin.svg" alt="DIGIPIN logo" width="18" style="vertical-align: text-bottom;"/> (Digital PIN) is a 10-character alphanumeric geocode developed by the Department of Posts, India. It provides a precise, user-friendly way to encode geographic coordinates that can be easily shared and decoded back to latitude/longitude pairs.
 
 This open-source Node.js project exposes a public API to generate and decode DIGIPINs, supporting geolocation services, postal logistics, and spatial analysis applications.
 
