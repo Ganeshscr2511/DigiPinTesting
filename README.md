@@ -1,4 +1,7 @@
-# <img src="docs/images/DigiPin.svg" alt="DIGIPIN logo" width="23" style="vertical-align: middle; margin-right: 2px;"/> DIGIPIN API by Department of Posts
+<h1 align="start">
+  <img src="docs/images/DigiPin.svg" alt="DIGIPIN logo" width="24" style="vertical-align: middle; margin-right: 2px;" />
+  DIGIPIN API by Department of Posts
+</h1>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   
