@@ -17,7 +17,7 @@ This open-source Node.js project exposes a public API to generate and decode DIG
 
 ---
 
-## 🏛️ About <div><img src="https://dac.indiapost.gov.in/mydigipin/docs/images/DigiPin.svg alt="India Post" width="120"/> </div>DIGIPIN
+## 🏛️ About DIGIPIN
 
 The Department of Posts has undertaken an initiative to establish a Digital Public Infrastructure (DPI) for a standardized, geo-coded addressing system in India. DIGIPIN represents the foundation layer of this infrastructure.
 
