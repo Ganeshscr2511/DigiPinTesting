@@ -1,4 +1,4 @@
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td valign="bottom">
       <img src="docs/images/DigiPin.svg" alt="DIGIPIN logo" width="40"/>
@@ -18,7 +18,7 @@
 
 ## A Geospatial Addressing Solution by India Post
 
-<p align="left">
+<p align="bottom">
   <img src="docs/images/DigiPin.svg" alt="DIGIPIN logo" width="16"/>
   <b>DIGIPIN (Digital PIN)</b> is a 10-character alphanumeric geocode developed by the Department of Posts, India. It provides a precise, user-friendly way to encode geographic coordinates that can be easily shared and decoded back to latitude/longitude pairs.
 </p>
