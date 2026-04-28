@@ -1,7 +1,7 @@
-<table align="start">
+<table>
   <tr>
     <td valign="middle">
-      <img src="docs/images/DigiPin.svg" alt="DIGIPIN logo" width="24"/>
+      <img src="docs/images/DigiPin.svg" alt="DIGIPIN logo" width="40"/>
     </td>
     <td valign="middle">
 <h1 valign="middle">DIGIPIN API by Department of Posts</h1>
