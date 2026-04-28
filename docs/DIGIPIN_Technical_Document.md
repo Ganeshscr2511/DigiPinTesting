@@ -1,4 +1,4 @@
-# Digital Postal Index Number (<img src="./images/DigiPin.svg" alt="DIGIPIN logo" width="40" style="vertical-align: middle;"/>)
+# <img src="./images/DigiPin.svg" alt="DIGIPIN logo" width="24" style="vertical-align: middle; margin-right: 8px;"/> Digital Postal Index Number (DIGIPIN)
 ## National Level Addressing Grid
 
 ### Technical Document – Final version
@@ -11,7 +11,7 @@
 
 The Department of Posts has undertaken an initiative to establish a Digital Public Infrastructure (DPI) for a standardized, geo-coded addressing system in India. As a part of this initiative, the Department is releasing final version of DIGIPIN – the foundation layer of the DPI. This initiative seeks to provide simplified addressing solutions for seamless delivery of public and private services and to enable "Address as a Service" (AaaS) across the country.
 
-DIGIPIN <img src="./images/DigiPin.svg" alt="DIGIPIN logo" width="18" style="vertical-align: text-bottom;"/> is an open-source national level addressing grid developed by Department of Posts in collaboration with IIT Hyderabad and NRSC, ISRO and is a key component of the digital address ecosystem. The beta version of the technical document on DIGIPIN was placed for public comments and expert opinion.
+<img src="./images/DigiPin.svg" alt="DIGIPIN logo" width="12" style="vertical-align: middle; margin-right: 4px;"/>DIGIPIN is an open-source national level addressing grid developed by Department of Posts in collaboration with IIT Hyderabad and NRSC, ISRO and is a key component of the digital address ecosystem. The beta version of the technical document on DIGIPIN was placed for public comments and expert opinion.
 
 After thorough analysis of the comments received through various stakeholder consultations, the Department has now finalized the DIGIPIN Grid that incorporates the relevant inputs. The DIGIPIN layer will serve as a uniform address referencing framework available both offline and online, enabling logical and precise location identification with directional attributes across India, offering significant advantages of ensuring precise geographic identification and thus complementing the conventional addressing system by providing an additional attribute. This would bridge the gap between physical locations and their digital representation.
 
