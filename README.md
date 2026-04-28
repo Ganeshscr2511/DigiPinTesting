@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td valign="middle">
+    <td valign="bottom">
       <img src="docs/images/DigiPin.svg" alt="DIGIPIN logo" width="40"/>
     </td>
     <td valign="middle">
