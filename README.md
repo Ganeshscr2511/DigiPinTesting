@@ -1,5 +1,5 @@
 <h1>
-  <img src="docs/images/DigiPin.svg" alt="DIGIPIN logo" width="40" align="center"/>
+  <img src="docs/images/DIGIPIN_Logo.png" alt="DIGIPIN logo" width="40" align="center"/>
   &nbsp; DIGIPIN API by Department of Posts
 </h1>
 
