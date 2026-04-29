@@ -48,7 +48,7 @@ function getDigiPin(lat, lon) {
 
     digiPin += DIGIPIN_GRID[row][col];
 
-    if (level === 3 || level === 6) digiPin += "-";
+    if (level === 3 || level === 6) digiPin += "";
 
     // Update bounds (reverse logic for row)
     maxLat = minLat + latDiv * (4 - row);
