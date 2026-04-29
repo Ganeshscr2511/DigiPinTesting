@@ -1,6 +1,6 @@
 
 <h1>
-  <img src="./images/DigiPin.svg" alt="DIGIPIN logo" width="40" align="center"/>
+  <img src="./images/DIGIPIN_Logo.png" alt="DIGIPIN logo" width="40" align="center"/>
   &nbsp; Digital Postal Index Number (DIGIPIN)
 </h1>
 ## National Level Addressing Grid
