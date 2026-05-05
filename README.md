@@ -160,6 +160,11 @@ This project is licensed under the Apache License, Version 2.0 - see the [LICENS
 
 ---
 
+## 🔐 Privacy Policy  
+https://dac.indiapost.gov.in/mydigipin/privacy-policy
+
+---
+
 ## 🙏 Acknowledgements
 
 - Department of Posts, Government of India
